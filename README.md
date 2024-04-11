@@ -1,2 +1,2 @@
 ﻿# Realtime-ChatX
-<a href="realtime-chatx.netlify.app">live link</a>
+realtime-chatx.netlify.app
